@@ -1,8 +1,8 @@
-# Web Development Project 5 - *Discover New Recipes*
+# Web Development Project 6 - *Discover New Recipes And Data Visualizations*
 
 Submitted by: **Viktoriia Sokolenko**
 
-This web app: **A web app allows users to discover new recipes from Spoonacular API, filter the obtained recipes by different characteristics, and get data on the recipes**
+This web app: **A web app allows users to discover new recipes from Spoonacular API, filter the obtained recipes by different characteristics, and get data on the filtered recipes**
 
 Time spent: **4** hours spent in total
 
@@ -10,7 +10,7 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [X] **The app includes at least one unique chart developed using the fetched data that tells an interesting story**
 - [X] **Clicking on an item in the list view displays more details about it**
   - [X] To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.
 - [X] **Clicking on an item has a direct, unique link to that item's detail view page**
