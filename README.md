@@ -4,40 +4,36 @@ Submitted by: **Viktoriia Sokolenko**
 
 This web app: **A web app allows users to discover new recipes from Spoonacular API, filter the obtained recipes by different characteristics, and get data on the filtered recipes**
 
-Time spent: **4** hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following features are implemented:
+- [X] **The app displays a list of recipes fetched using an API call**
 
-- [X] **The app includes at least one unique chart developed using the fetched data that tells an interesting story**
-- [X] **Clicking on an item in the list view displays more details about it**
-  - [X] To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.
-- [X] **Clicking on an item has a direct, unique link to that item's detail view page**
-  - [X] To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.  
+- [X] **The app dashboard includes six summary statistics about the data such as**
+  - [X] *Total number of recipes*
+  - [X] *Average number of ingredients*
+  - [X] *The most common ingredient*
+  - [X] *Average cooking time*
+  - [X] *Price Range*
+  - [X] *Average Price*
+- [X] **A search bar allows the user to search for a recipe in the fetched data**
+- [X] **Three different filters (a text input, checkboxes, and a slider) allow the user to filter recipes in the database by specified categories and can be applied simultaneously**
+- [X] **The app includes two one unique charts from Recharts developed using the fetched data**
+- [X] **Clicking on a recipe item in the list leads to a direct, unique link to that recipe's detail view page**
+- [X] **The charts and statistics on the deashboard reflect the filtered data.**
+- [X] Data uses the useEffect React hook and async/await syntax, BrowserRouter, and Params
 
-
-The following **optional** features are implemented:
-
-- [X] The site's customized dashboard contains more content that explains what is interesting about the data
-- [ ] The site allows users to toggle between different data visualizations
-
-The following **additional** features are implemented:
-
-* [X] The charts reflect the filtered data.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 <a href='https://i.imgur.com/c8VlVmm.gifv'>
-<img src='https://i.imgur.com/c8VlVmm.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/src/assets/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
