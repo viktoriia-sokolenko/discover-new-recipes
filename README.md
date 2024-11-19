@@ -28,8 +28,9 @@ The following features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+
 <a href='https://i.imgur.com/c8VlVmm.gifv'>
+  Here's a walkthrough of implemented user stories:
 <img src='/src/assets/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </a>
 <!-- Replace this with whatever GIF tool you used! -->
